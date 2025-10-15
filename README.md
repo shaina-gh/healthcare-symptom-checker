@@ -26,7 +26,7 @@ A modern stack featuring a Python/FastAPI backend and a React (Vite) frontend.
 Saves all previous checks in a local SQLite database, accessible through a "History" tab in the UI.
 
 ## 🛠️ Tech Stack
-Backend: Python, FastAPI
-Frontend: React (Vite)
-Database: SQLite
+Backend: Python, FastAPI; 
+Frontend: React (Vite); 
+Database: SQLite; 
 LLM Integration: Anthropic (Claude API)
