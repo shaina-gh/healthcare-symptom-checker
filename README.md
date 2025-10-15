@@ -4,7 +4,7 @@ A full-stack application that leverages a Large Language Model (LLM) to analyze 
 This project was built as a technical assignment to demonstrate proficiency in backend development, frontend integration, LLM prompting, and responsible AI safety practices.
 
 ## Demo Video
-
+https://drive.google.com/file/d/1z8UkEOeaJmtLDYosM2D4_mxXJIb92lqe/view?usp=sharing 
 
 ## 🌟 Key Features
 ### AI-Powered Analysis: 
